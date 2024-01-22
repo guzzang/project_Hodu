@@ -130,14 +130,6 @@ button{
     margin-top: 72px;
 }
 
-.loadImage{
-
-}
-
-.loadImageWrap{
-
-}
-
 .list-image{
     display: none;
     justify-content: center;
@@ -258,7 +250,7 @@ h4{
 }
 
 .hover:hover{
-    background-image: url("img/scroll-top-btn2.png");
+    background-image: url("/img/scroll-top-btn2.png");
     }
 
 #modalPage{
